@@ -6,7 +6,7 @@ export const products: Product[] = [
  id: "1",
  title: "Laptop",
  price: 55000,
- image: "/public/images/products/laptop.png"
+ image: "/./images/products/laptop.png"
 },
 
 {
